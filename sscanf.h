@@ -2,9 +2,7 @@
 #define _SSCANF_H_
 
 #include <ctype.h>
-// #include <linux/kernel.h>
 #include <limits.h>
-// #include <os.h> // seems used to include <linux/types.h>
 #include <stdarg.h>
 #include <stdint.h>
 #include <stdio.h>
